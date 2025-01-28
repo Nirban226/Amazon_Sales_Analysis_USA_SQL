@@ -45,7 +45,7 @@ Key business problems identified:
 4. High customer acquisition costs with a low customer retention rate.
 
 ---
-## **Project Outcomes**
+## **Project Outcome**
 
 This project enabled me to:
 - Design and implement a normalized database schema.
